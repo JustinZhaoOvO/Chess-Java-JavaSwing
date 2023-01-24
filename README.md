@@ -1,7 +1,7 @@
 # To start the program
 ##### Go to the MainProgram.***Main.java*** and exacute its main emthod
 
-## Structure : 
+## Structure :
 ### source code : src.main.javaChess
 > ChessBoard
 > > store the chess board component, chess board class and its layout adapter.
